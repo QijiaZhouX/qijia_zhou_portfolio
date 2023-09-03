@@ -19,6 +19,6 @@ Hello! My name is Qijia Zhou, and I am a passionate person about data science an
 
 ## Assignment
 
-## Assignment 3&4
+## Assignment 
 
 ## Final project
