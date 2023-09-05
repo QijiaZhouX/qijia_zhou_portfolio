@@ -12,6 +12,8 @@ Hello! My name is Qijia Zhou, and I am a passionate person about data science an
 1. Data visualization skills, with Tableau especially
 2. Storytelling skills, how to speak with the audience and make effective data visualization
 3. Explore more design-oriented perspectives in data visualization, and do arts
+hello \n
+happy \n
 
 # Portfolio
 
