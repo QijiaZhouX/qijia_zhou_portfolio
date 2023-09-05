@@ -14,9 +14,6 @@ Hello! My name is Qijia Zhou, and I am a passionate person about data science an
 3. Explore more design-oriented perspectives in data visualization, and do arts
 
 # Portfolio
-this is a portfolio \n
-h \n
-
 
 ## Assignment
 
