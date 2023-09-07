@@ -16,8 +16,8 @@ Hello! My name is Qijia Zhou, and I am a passionate person about data science an
 # Portfolio
 
 ## Assignment
-[Visualizing Government Debt](/data_viz_2.md)
-<div class="flourish-embed flourish-chart" data-src="visualisation/14951005"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+[Visualizing Government Debt](https://qijiazhoux.github.io/qijia_zhou_portfolio/data_viz_2.html)
+
 ## Assignment 
 
 ## Final project
