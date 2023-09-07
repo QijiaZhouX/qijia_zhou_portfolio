@@ -5,4 +5,6 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14951005"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-[Whole website for this project](ttps://qijiazhoux.github.io/qijia_zhou_portfolio/data_viz_2.html)
+<div class="flourish-embed flourish-scatter" data-src="visualisation/14952798"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+[Whole website for this project](https://qijiazhoux.github.io/qijia_zhou_portfolio/data_viz_2.html)
