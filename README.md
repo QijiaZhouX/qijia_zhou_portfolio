@@ -16,7 +16,7 @@ Hello! My name is Qijia Zhou, and I am a passionate person about data science an
 # Portfolio
 
 ## Assignment
-
+[Visualizing Government Debt](/data_viz_2.md)
 ## Assignment 
 
 ## Final project
