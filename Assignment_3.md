@@ -53,8 +53,10 @@ The second one I need clarification on; it takes a little thinking and can be ha
 Participient 2: Student 20s    
 Q: Is there anything you would change or do differently? 
 A: The color of the dots can be different, and you should take the consideration of color blindness into account. Also, all the dots are together, so it is hard to tell which one is from which year; if there is a separation between the years, it would be better.    
-Another thing I am concerned about is the causality and correlation of GDP and life expectancy. I don't know if the audience will think there is a causality relationship between the GDP and life expectancy, and I don't think that will be a correct conclusion. 
+Another thing I am concerned about is the causality and correlation of GDP and life expectancy. I don't know if the audience will think there is a causality relationship between the GDP and life expectancy, and I don't think that will be a correct conclusion.     
 
+Take Aways:    
+The two approaches both have their advantages; the first one is more intuitive but has less information, the second one needs more description and better design. 
 ## Step 5: build solution
 <html lang="en">
 <head>
@@ -105,4 +107,4 @@ Another thing I am concerned about is the causality and correlation of GDP and l
 </html>
 
 
-As we can see in this 
+I chose this to be my final solution. With more info about the GDP, I feel this is a better story to tell the audience. I changed the color and made fewer contracts. I also tried to add a description on the top to make it clearer. 
