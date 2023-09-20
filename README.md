@@ -16,7 +16,10 @@ Hello! My name is Qijia Zhou, and I am a passionate person about data science an
 # Portfolio
 
 ## Assignment
-[Visualizing Government Debt](https://qijiazhoux.github.io/qijia_zhou_portfolio/data_viz_2.html)
+[Visualizing Government Debt](https://qijiazhoux.github.io/qijia_zhou_portfolio/data_viz_2.html)   
+
+[Life Expectancy at Birth Redo](https://qijiazhoux.github.io/qijia_zhou_portfolio/Assignment_3.html)
+
 
 ## Assignment 
 
