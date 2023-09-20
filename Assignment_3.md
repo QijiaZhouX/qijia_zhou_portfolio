@@ -1,3 +1,7 @@
-# Step one: find a data visualization:
+## Step one: find a data visualization:
 https://projects.flowingdata.com/life-expectancy/
 <a href="https://projects.flowingdata.com/life-expectancy/" target="_blank">Life Expectancy Data Visualization</a>
+![image](https://github.com/QijiaZhouX/qijia_zhou_portfolio/assets/143776318/b303323b-5347-4fbf-a08d-8c227e3c1445)
+
+## Step 2: Critique
+Overall, this visualization looks overwhelming to me. There are so many data points, and it is hard to get the information for specific countries or regions in the world. I like the interaction of the graph and the way that the audience can go through all the countries and see the trends. I like the way that the author wrote there are several data points that we should draw more attention to and connect the history with the life expectancy value. The graph is intuitive, and it is easy for the audience to see the world's life expectancy trends. I also like the way we can select the region from the graph and only highlight that data. The problem is that we can not identify the data and get an immediate takeaway. Even though the author chose to include all the data points for every country, it is difficult to compare those data with each other. To improve, I came up with several solutions. 1. Using the word map and color to show the difference in life expectancy across countries. 2. Plot Lines for specific countries of interest to show the trends. 3. Add additional information like GDP values, and do a dot plot to show the change in life expectancy over the years and compare the difference with countries with different GDPs. 
