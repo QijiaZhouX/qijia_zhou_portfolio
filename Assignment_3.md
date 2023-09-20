@@ -12,7 +12,7 @@ This is an interactive visualization, as seen through the link above. It measure
 ## Step 2: Critique
 
 Usefulness: 4 out of 10    
-The overall usefulness is low because it is too crowded and hard to tell them apart; the comparison is not that strong and transparent in terms of the regions they fall into. I like the interactive features that I can click on the visualization, but Ing the need helprmation from the graph is still hard.   
+The overall usefulness is low because it is too crowded, and hard to tell them apart; the comparison is not that strong and transparent in terms of the regions they fall into. I like the interactive features that I can click on the visualization, but Ing the need for reformation from the graph is still hard.   
 Completeness: 8 out of 10   
 The graph has many valuable information and data points, and they did try to include all the data points.  It has a description and some stories behind the data, which is good information.    
 Perceotibility: 4 out of 10   
@@ -20,11 +20,11 @@ Even though I like the interfaces, it is hard to get any insights from the data 
 Truthfulness: 8 out of 10    
 The spacing of the x-axis and y-axis are valid, and they captured the accurate information from the dataset.    
 Intuitiveness: 8 out of 10    
-I like the way the x axis represent time flow, and iy moves from left to right, and I think the high and low of the life expentancy is easy to get.   
+I like how the x-axis represents time flow, and iy moves from left to right, and the high and low of the life expectancy is easy to get.   
 Aesthetics: 7 out of 10   
-I like the use of colors and I think with limited region highlighted, the graph looks good.   
-Engagement: 8 ot of 10   
-
+I like the colors and think the graph looks good with limited regions highlighted.   
+Engagement: 8 out of 10   
+I like how the audience can interact and play with the  data points, I find the experience interesting. 
 
 Overall, this visualization looks overwhelming to me. There are so many data points, and getting the information for specific countries or regions worldwide is hard. I like the interaction of the graph and the way that the audience can go through all the countries and see the trends. I like the way that the author wrote there are several data points that we should draw more attention to and connect the history with the life expectancy value. The graph is intuitive, and it is easy for the audience to see the world's life expectancy trends. I also like how we can select the region from the graph and highlight only that data. The problem is that we can not identify the data and get an immediate takeaway. Even though the author chose to include all the data points for every country, comparing them with each other is difficult. To improve, I came up with several solutions. 1. Using the word map and color to show the difference in life expectancy across countries. 2. Plot Lines for specific countries of interest to show the trends. 3. Add additional information like GDP values, and do a dot plot to show the change in life expectancy over the years and compare the difference with countries with different GDPs.   
 
@@ -36,7 +36,7 @@ This type of visualization could be more successful. The comparison between coun
 
 <div class="flourish-embed flourish-map" data-src="visualisation/15044305"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
 
-My primary idea of making this data more accessible for people to understand is using a map. As we can see, the darker region on the map means a place with a higher life expectancy; I also tried to get the population of the nations, represented by the circle in the graph (I found it a little distracting, though).  I included only two years of data in the chart. 
+My primary idea of making this data more accessible for people to understand is using a map. As we can see, the darker region on the map means a place with a higher life expectancy; I also tried to get the population of the nations represented by the circle in the graph (I found it a little distracting, though).  I included only two years of data in the chart. 
 
 
 ![Sketch 1](https://github.com/QijiaZhouX/qijia_zhou_portfolio/assets/143776318/2758a27c-b769-42ad-9e32-0daa06eca44d)
@@ -47,10 +47,13 @@ My second idea was to include additional data points to the original dataset; I 
 
 Participent 1: Young Adult 20s  
 Q: Can you tell me what you think this is? (both graphs) 
-A: The first one (map) is clear; I believe this life expectancy for different countries. the only thing I am confused about about about is that the map is missing some regions, such as The US. Is that just super low or is it just missing? I like the overall look of the graph; it is good information, and I like the interaction.   
-The second one, I need clarification on it; it takes a little thinking and can be hard to get. I hope there is more information on the Y axis, and I am confused about about about the dot. But this one can show more details. If the dots mean country, does it mean the higher GDP will result in higher life expectancy?  Etc.   
+A: The first one (map) is clear; I believe this life expectancy for different countries. The only thing I am confused about about about is that the map is missing some regions, such as The US. Is that just super low or is it just missing? I like the overall look of the graph; it is good information, and I like the interaction.   
+The second one I need clarification on; it takes a little thinking and can be hard to get. I hope there is more information on the Y axis, and I am confused about about about the dot. But this one can show more details. If the dots mean country, does it mean the higher GDP will result in higher life expectancy?  Etc.   
 
 Participient 2: Student 20s    
 Q: Is there anything you would change or do differently? 
-A: The color of the dots can be different, and you should take the consideration of color blindness into account. Also, all the dots are together so it is hard to tell which one is from which year, if there is a sepertation between the years would be better.    
-Another thing I have concern is the casulity and corrleation of GDP and life expentancy. I am not sure if the audience will think there iss a casulity relationship between the GDP and life expectancy, and I don't think that will be a corret coultion. 
+A: The color of the dots can be different, and you should take the consideration of color blindness into account. Also, all the dots are together, so it is hard to tell which one is from which year; if there is a separation between the years, it would be better.    
+Another thing I am concerned about is the causality and correlation of GDP and life expectancy. I don't know if the audience will think there is a causality relationship between the GDP and life expectancy, and I don't think that will be a correct conclusion. 
+
+## Step 5: build solution
+
