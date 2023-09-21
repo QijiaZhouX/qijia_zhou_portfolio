@@ -107,4 +107,5 @@ The two approaches both have their advantages; the first one is more intuitive b
 </html>
 
 
-I chose this to be my final solution. With more info about the GDP, I feel this is a better story to tell the audience. I changed the color and made fewer contracts. I also tried to add a description on the top to make it clearer. 
+I chose this to be my final solution. With more info about the GDP, this is a better story to tell the audience. I changed the color and made fewer contracts. I also tried to add a description on the top to make it clearer. In the graph, we can identify a clear trend that life expectancy is increasing over time; while it is also positively correlated with the GDP value, some outliers may exist, and it is worth looking into later.   
+I think there are other ways to represent the idea, but I didn't get enough time to explore the possibilities. For example, in the original data, I identified some significant drops of life expectancies for several countries, and it is unusual in the pattern where the overall life expectancies continue to grow. Those drops may be due to war or other unexpected events. The future exploration can be how the war affects people's life expectancy and what events may have negative/positive effects. 
