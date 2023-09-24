@@ -21,6 +21,8 @@ Hello! My name is Qijia Zhou, and I am a passionate person about data science an
 [Life Expectancy at Birth Redo](https://qijiazhoux.github.io/qijia_zhou_portfolio/Assignment_3.html)
 
 
-## Assignment 
+
 
 ## Final project
+
+[Final Project Part 1](https://qijiazhoux.github.io/qijia_zhou_portfolio/Final_Project_1.html)
