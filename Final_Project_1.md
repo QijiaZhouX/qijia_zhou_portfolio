@@ -47,5 +47,9 @@ Future of AI in Art
 ## Data Source:
 This dataset has been curated from various online sources and consists of survey data from both artists and the general public regarding their perceptions of AI art. This will enable us to contrast public sentiment with that of the artists themselves. Additionally, the dataset contains market data related to AI art, which can provide insights into emerging trends and potential shifts in the art industry. By examining this information, we aim to highlight potential challenges, particularly concerning copyright laws and compensation issues, that may arise with the proliferation of AI-generated art.
 
-https://github.com/QijiaZhouX/qijia_zhou_portfolio/tree/main/data
+[Data](https://github.com/QijiaZhouX/qijia_zhou_portfolio/tree/main/data)
+
+## Method and Medium
+The final project will be presented through a digital story on Shorthand. 
+
 
