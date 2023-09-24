@@ -9,7 +9,7 @@ Through data visualizations and narrative exploration, we aim to paint a picture
 
 
 ## Project Structure
-Introduction    
+Introduction:     
 In recent years, the rise of artificial intelligence (AI) has transformed many sectors, signaling a new epoch in technological evolution. 
 From healthcare to finance, industries are adapting and evolving, embracing the unprecedented changes brought by AI. 
 Yet, the world of artistry—a realm emblematic of human emotion, creativity, and expression—stands at a crossroads.
@@ -17,6 +17,29 @@ Many artists, traditionally the torchbearers of human ingenuity, find themselves
 They voice concerns over the sanctity of their work, fearing the potential erosion of intellectual property rights at the hands of relentless algorithms. 
 This project delves into the intersection of technology and creativity, seeking to understand the evolving dynamics between human artists and AI artistry.
 This type of concern does not only emerge in the artists; according to the report by McKinsey, generative AI has increased the automation potential across all occupations. 
-Exibhit: 
 
+Exibhit: 
+![i](https://github.com/QijiaZhouX/qijia_zhou_portfolio/assets/143776318/a21bb6cd-5f0d-4c53-b13a-af3e4fea338f)
+
+Historical Perspective
+The debate surrounding the value of AI-generated art remains ongoing and fervent. 
+In 2018, a notable incident marked a milestone: an artwork produced by an algorithm intended to challenge perceptions of machine-generated art astonishingly fetched $432,500 at Christie's New York auction. 
+This discourse took a fresh turn as AI art garnered heightened attention in 2022.
+
+Public Perception: 
+The 
+![未命名作品 8](https://github.com/QijiaZhouX/qijia_zhou_portfolio/assets/143776318/d160cadc-1512-45ec-999e-6b416e7974f2)
+
+
+AI's influence on the Art market:    
+
+![未命名作品 9](https://github.com/QijiaZhouX/qijia_zhou_portfolio/assets/143776318/20fa2593-dafc-4418-b8ef-d57f27d79198)
+
+
+Impact on Artist   
+
+![未命名作品 7](https://github.com/QijiaZhouX/qijia_zhou_portfolio/assets/143776318/f84e7c34-f82c-4d94-9939-61620b167bc3)
+
+
+Future of AI in Art
 
