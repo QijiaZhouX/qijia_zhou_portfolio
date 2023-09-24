@@ -21,28 +21,28 @@ This type of concern does not only emerge in the artists; according to the repor
 Exibhit: 
 ![i](https://github.com/QijiaZhouX/qijia_zhou_portfolio/assets/143776318/a21bb6cd-5f0d-4c53-b13a-af3e4fea338f)
 
-2. Historical Perspective
+2. Historical Perspective:   
 The debate surrounding the value of AI-generated art remains ongoing and fervent. 
 In 2018, a notable incident marked a milestone: an artwork produced by an algorithm intended to challenge perceptions of machine-generated art astonishingly fetched $432,500 at Christie's New York auction. 
 This discourse took a fresh turn as AI art garnered heightened attention in 2022.
 
-3. Public Perception: 
+3. Public Perception:     
 Artists themselves exhibit diverse reactions to the concept of AI-generated art. For many, the sale of their artwork constitutes a substantial portion of their income. Consequently, there's a growing concern among them about the potential of AI replacing this traditional revenue stream.
 ![未命名作品 8](https://github.com/QijiaZhouX/qijia_zhou_portfolio/assets/143776318/d160cadc-1512-45ec-999e-6b416e7974f2)
 
 
-4. AI's influence on the Art market:    
+4. AI's influence on the Art market:       
 
 ![未命名作品 9](https://github.com/QijiaZhouX/qijia_zhou_portfolio/assets/143776318/20fa2593-dafc-4418-b8ef-d57f27d79198)
 
 
-5. Impact on Artist   
+5. Impact on Artist:        
 
 Artists themselves exhibit diverse reactions to the concept of AI-generated art. For many, the sale of their artwork constitutes a substantial portion of their income. Consequently, there's a growing concern among them about the potential of AI replacing this traditional revenue stream.
 ![未命名作品 7](https://github.com/QijiaZhouX/qijia_zhou_portfolio/assets/143776318/f84e7c34-f82c-4d94-9939-61620b167bc3)
 
 
-6. Future of AI in Art
+6. Future of AI in Art    
 
 ## Data Source:
 This dataset has been curated from various online sources and consists of survey data from both artists and the general public regarding their perceptions of AI art. This will enable us to contrast public sentiment with that of the artists themselves. Additionally, the dataset contains market data related to AI art, which can provide insights into emerging trends and potential shifts in the art industry. By examining this information, we aim to highlight potential challenges, particularly concerning copyright laws and compensation issues, that may arise with the proliferation of AI-generated art.
