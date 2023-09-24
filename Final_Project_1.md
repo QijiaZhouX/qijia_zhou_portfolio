@@ -38,6 +38,7 @@ AI's influence on the Art market:
 
 Impact on Artist   
 
+Artists themselves exhibit diverse reactions to the concept of AI-generated art. For many, the sale of their artwork constitutes a substantial portion of their income. Consequently, there's a growing concern among them about the potential of AI replacing this traditional revenue stream.
 ![未命名作品 7](https://github.com/QijiaZhouX/qijia_zhou_portfolio/assets/143776318/f84e7c34-f82c-4d94-9939-61620b167bc3)
 
 
