@@ -23,7 +23,7 @@ I conclude by providing resources for artists to safeguard their creations from 
 ### Target Audience 
 
 
-\ I am interviewing the following target people for feedback:
+**I am interviewing the following target people for feedback:**    
 
 1. Classmates with Interest in Website Design and Storytelling: I envision classmates who possess a keen interest in design, especially those with a design background, as an ideal audience. Their expertise would allow them to evaluate the professional facets of my work critically.
 
@@ -88,27 +88,26 @@ Explanation: Ensures that the content is comprehensive and that no critical info
 
 ### Takeaways and next steps
 
-
-\ Clarity and Flow:   
+**Clarity and Flow:**    
 Feedback: Lack of connection between sections.
 Next Step: Implement Information Architecture techniques to improve content flow and organization. Make sure there is a clear connection between sections. 
 
-\ Content Depth:  
+**Content Depth:**    
 Feedback: Content is surface-level and lacks comprehensive details.
 Next Step: Dive deeper into topics, especially AI's impact on artists.
 
-\ Target Audience:   
+**Target Audience:**      
 Feedback: Unclear target audience definition.
 Next Step: Refine and specify the target audience, focusing on artists' needs and interests. Give more suggestions for artists and make sure it is engaging for them. 
 
-\  Visual Organization:
+**Visual Organization:**   
 Feedback: Clutter due to excessive graphs and visuals.
 Next Step: Streamline visuals to complement content without overwhelming. Less graph on the same page, with words and explanations in between to make it easier to follow. 
 
-\  Content Recommendations:
+**Content Recommendations:**   
 Feedback: Presence of typos; desire for AI tool insights and updated regulations.
 Next Step: Proofread content and expand sections on AI tools and relevant regulations.
 
-\ Aesthetics:   
+**Aesthetics:**      
 Feedback: Positive feedback on website visuals.
-Next Step: Retain visual appeal while addressing other feedback areas. Maybe more consistent on the graph styles. 
+Next Step: Retain visual appeal while addressing other feedback areas. It could be more consistent in the graph styles. 
