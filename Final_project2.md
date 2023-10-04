@@ -25,7 +25,7 @@ I conclude by providing resources for artists to safeguard their creations from 
 
 \ I am interviewing the following target people for feedback:
 
-1. Classmates with Interest in Website Design and Storytelling: I envision classmates who possess a keen interest in design, especially those with a design background, as an ideal audience. Their expertise would allow them to critically evaluate the professional facets of my work.
+1. Classmates with Interest in Website Design and Storytelling: I envision classmates who possess a keen interest in design, especially those with a design background, as an ideal audience. Their expertise would allow them to evaluate the professional facets of my work critically.
 
 
 2. Art and Design Students/Professionals: These individuals form the primary audience for my website. Their insights will be invaluable in refining the site's content and design. I'm also eager to understand their perspectives on the subject matter and discern any additional information they feel should be incorporated.
@@ -75,13 +75,40 @@ Explanation: Ensures that the content is comprehensive and that no critical info
 | Is there anything you would change or do differently?       | No, not really, maybe just more content, and I think there is some typo in the website, be sure to fix that                                                                                        |   
 | Is there any additional information you would like to know? | Not that I can think of      
 
-| Questions                                                   | 2nt Person (Art student, 25 years old)                                                                                                                                                                                                                        |
+| Questions                                                   | 2nd Person (Art student, 25 years old)                                                                                                                                                                                                                        |
 |-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Is there anything that is confusing?                       | It's not confusing, but I think there may be too many graphs on the same view. Have you ever heard of information architecture? You can build a map of which part you think is more important and highlight those instead of throwing all the pieces together |
-| Would this be something you'd want to listen to?            | Yes, I think it is an interesting topic, actually I think it is a little bit deep and hard to discuss; it is something that PHD students usually discuss                                                                                                     |
+| Would this be something you'd want to listen to?            | Yes, I think it is an interesting topic, I think it is a little bit deep and hard to discuss; it is something that Ph.D. students usually discuss                                                                                                     |
 | Do you feel there is an appropriate flow?                   | I think there are some building blocks in the website, but you should make sure there can be detailed connections, so there will be a clearer flow of your story                                                                                                 |
-| Is there anything that needs to be improved?                    | Maybe there can be more insights on how artists can use AI to improve their work and how to use that as a tool.                                                                                                                                               |
+| Is there anything that needs to be improved?                    | There may be more insights on how artists can use AI to improve their work and how to use that as a tool.                                                                                                                                               |
 | Who do you think is the intended audience?                  | Generally, anyone can be the audience, but I like the end where you provided tools for artists to protect themselves                                                                                                                                           |
-| Is there anything you would change or do differently?       | I like the visual of this website; I think it is cool! I am wondering if there can be a better connection between the sections                                                                                                                               |
-| Is there any additional information you would like to know? | I would like to know some up-to-date regulations, events, or news related to AI and copyright. I heard there are a few lawsuits; maybe that would be an interesting addon to the website you have for now.                                                  |
+| Is there anything you would change or do differently?       | I like the visual of this website; it is cool! I am wondering if there can be a better connection between the sections                                                                                                                               |
+| Is there any additional information you would like to know? | I would like to know some up-to-date regulations, events, or news related to AI and copyright. I heard there are a few lawsuits; that could be an interesting addon to the website you have for now.                                                  |
 
+
+### Takeaways and next steps
+
+
+\ Clarity and Flow:   
+Feedback: Lack of connection between sections.
+Next Step: Implement Information Architecture techniques to improve content flow and organization. Make sure there is a clear connection between sections. 
+
+\ Content Depth:  
+Feedback: Content is surface-level and lacks comprehensive details.
+Next Step: Dive deeper into topics, especially AI's impact on artists.
+
+\ Target Audience:   
+Feedback: Unclear target audience definition.
+Next Step: Refine and specify the target audience, focusing on artists' needs and interests. Give more suggestions for artists and make sure it is engaging for them. 
+
+\  Visual Organization:
+Feedback: Clutter due to excessive graphs and visuals.
+Next Step: Streamline visuals to complement content without overwhelming. Less graph on the same page, with words and explanations in between to make it easier to follow. 
+
+\  Content Recommendations:
+Feedback: Presence of typos; desire for AI tool insights and updated regulations.
+Next Step: Proofread content and expand sections on AI tools and relevant regulations.
+
+\ Aesthetics:   
+Feedback: Positive feedback on website visuals.
+Next Step: Retain visual appeal while addressing other feedback areas. Maybe more consistent on the graph styles. 
