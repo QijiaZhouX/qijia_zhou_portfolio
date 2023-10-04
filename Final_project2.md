@@ -65,12 +65,12 @@ Explanation: Ensures that the content is comprehensive and that no critical info
 
 ### Response
 
-| Questions                                                   | 1st Person (General public, IT perfessionals 25 years old)                                                                       |
+| Questions                                                   | 1st Person (General public, IT professionals 25 years old)                                                                       |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| Are there anything that is confusing?                       | The last part of the next steps, where there is three section together, I am wondering what that does                            |
-| Would this be something you'd want to listen to?            | Yes, I think it is an interesting topic, I am not famlier with it though                                                         |
-| Do you feel there is an appropriate flow?                   | I don't see a specific 'flow' I just think there are good information, but I find it hard to get the connection between sections |
-| Is there anything that needs to improve?                    | I would like more contents on the details and explain the connections between sections                                           |
-| Who do you think is the intended audience?                  | I don't see a specific audience group, I think everyone can benefit from this website                                            |
-| Is there anything you would change or do differently?       | No, not really, maybe just more contents                                                                                         |   
+| Is there anything confusing?                       | The last part of the next steps, where there is three sections together, I am wondering what that does                            |
+| Would this be something you'd want to listen to?            | Yes, I think it is an interesting topic, I am not familiar with it though                                                         |
+| Do you feel there is an appropriate flow?                   | I don't see a specific 'flow'; I just think there is good information, but I find it hard to get the connection between sections |
+| Is there anything that needs to be improved?                    | I would like more content on the details and to explain the connections between sections                                           |
+| Who do you think is the intended audience?                  | I don't see a specific audience group; I think everyone can benefit from this website                                            |
+| Is there anything you would change or do differently?       | No, not really, maybe just more content                                                                                         |   
 | Is there any additional information you would like to know? | Not that I can think of      
