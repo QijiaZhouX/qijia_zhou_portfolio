@@ -110,4 +110,9 @@ Next Step: Proofread content and expand sections on AI tools and relevant regula
 
 **Aesthetics:**      
 Feedback: Positive feedback on website visuals.
-Next Step: Retain visual appeal while addressing other feedback areas. It could be more consistent in the graph styles. 
+Next Step: Retain visual appeal while addressing other feedback areas. It could be more consistent in the graph styles. \
+
+## Moodboard
+
+![未命名的设计](https://github.com/QijiaZhouX/qijia_zhou_portfolio/assets/143776318/2146e507-c358-4670-a58a-19a76bebbaa0)
+
