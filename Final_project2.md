@@ -35,31 +35,31 @@ I conclude by providing resources for artists to safeguard their creations from 
 
 ### Script & Questions:
 
-1. Are there any sections that are surprising or confusing?
+**Are there any sections that are surprising or confusing?**
 
 Explanation: This question seeks to identify parts of the content that might be jarring or unclear to the audience. It helps in pinpointing areas that might need simplification or further explanation.
 
-2. Would this be something you'd want to listen to?
+**Would this be something you'd want to listen to?**
 
 Explanation: This is a general gauge of interest and engagement. It helps determine if the material captures and retains the audience's attention.
 
-3. Do you feel there is an appropriate flow?
+**Do you feel there is an appropriate flow?**
 
 Explanation: Continuity and coherence are crucial for any presentation. This question assesses whether the content progresses logically and seamlessly, ensuring the audience remains engaged and can easily follow along.
 
-4. Is there anything that needs to improve?
+**Is there anything that needs to be improved?**
 
 Explanation: A broad, open-ended question to capture any feedback that hasn't been addressed by previous questions. This can reveal insights into areas of improvement that might not have been initially considered.
 
-5. Who do you think is the intended audience? If this is not clear, are there ways to make it clearer?
+**Who do you think is the intended audience? If this is not clear, are there ways to make it clearer?**
 
 Explanation: It's essential that the content is tailored to its intended audience. This question evaluates if the target audience is easily identifiable and if the content resonates with them. If not, feedback on how to make the target audience clearer will be beneficial.
 
-6. Is there anything you would change or do differently?
+**Is there anything you would change or do differently?**
 
 Explanation: This prompts the interviewee to think critically about the material's structure and content, offering potential alternative approaches or improvements.
 
-7. Is there any additional information you would like to know?
+**Is there any additional information you would like to know?**
 
 Explanation: Ensures that the content is comprehensive and that no critical information is missing. It also helps identify areas where the audience might want a deeper dive or further clarification.
 
