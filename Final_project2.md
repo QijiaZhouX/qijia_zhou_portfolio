@@ -78,13 +78,22 @@ Explanation: Ensures that the content is comprehensive and that no critical info
 | Questions                                                   | 2nd Person (Art student, 25 years old)                                                                                                                                                                                                                        |
 |-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Is there anything that is confusing?                       | It's not confusing, but I think there may be too many graphs on the same view. Have you ever heard of information architecture? You can build a map of which part you think is more important and highlight those instead of throwing all the pieces together |
-| Would this be something you'd want to listen to?            | Yes, I think it is an interesting topic, I think it is a little bit deep and hard to discuss; it is something that Ph.D. students usually discuss                                                                                                     |
+| Would this be something you'd want to listen to?            | Yes, I think it is an interesting topic; I think it is a little bit deep and hard to discuss; it is something that Ph.D. students usually discuss                                                                                                     |
 | Do you feel there is an appropriate flow?                   | I think there are some building blocks in the website, but you should make sure there can be detailed connections, so there will be a clearer flow of your story                                                                                                 |
 | Is there anything that needs to be improved?                    | There may be more insights on how artists can use AI to improve their work and how to use that as a tool.                                                                                                                                               |
 | Who do you think is the intended audience?                  | Generally, anyone can be the audience, but I like the end where you provided tools for artists to protect themselves                                                                                                                                           |
 | Is there anything you would change or do differently?       | I like the visual of this website; it is cool! I am wondering if there can be a better connection between the sections                                                                                                                               |
 | Is there any additional information you would like to know? | I would like to know some up-to-date regulations, events, or news related to AI and copyright. I heard there are a few lawsuits; that could be an interesting addon to the website you have for now.                                                  |
 
+| Questions                                                   | 3rd Person (CMU student, 25 years old)                                                                                                                                                                                 |
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Is there anything that is confusing?                       | I find it hard to follow, I see everything looks like good information, but I see no deep connection between the ideas                                                                                                  |
+| Would this be something you'd want to listen to?            | I am mutual about the topic, but I know it is a hot topic                                                                                                                                                             |
+| Do you feel there is an appropriate flow?                   | I don't see a clear flow, but this is probably because it is only an outline, not a detailed story.                                                                                                                      |
+| Is there anything that needs to be improved?                    | Make the flow clearer, and find the connection between graphs.                                                                                                                                                           |
+| Who do you think is the intended audience?                  | It can be suitable for artists, but it should be more analysis of the situation, and I think there can be more examples, like different voices on AI and why is that will make the website more interesting.  |
+| Is there anything you would change or do differently?       | Not really.                                                                                                                                                                                                            |
+| Is there any additional information you would like to know? | More information and a more detailed story would be good.                                                                                                                                                                |
 
 ### Takeaways and next steps
 
@@ -106,7 +115,7 @@ Next Step: Streamline visuals to complement content without overwhelming. Less g
 
 **Content Recommendations:**   
 Feedback: Presence of typos; desire for AI tool insights and updated regulations.
-Next Step: Proofread content and expand sections on AI tools and relevant regulations.
+Next Step: Proofread content and expand sections on AI tools and relevant regulations. Detailed story about AI and artists and make the contents more engaging. 
 
 **Aesthetics:**      
 Feedback: Positive feedback on website visuals.
