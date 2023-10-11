@@ -28,3 +28,5 @@ Hello! My name is Qijia Zhou, and I am a passionate person about data science an
 [Final Project Part 1](https://qijiazhoux.github.io/qijia_zhou_portfolio/Final_Project_1.html)  
 
 [Final Project Part 2](https://qijiazhoux.github.io/qijia_zhou_portfolio/Final_project2.html)
+
+[Final Project Part 3](https://qijiazhoux.github.io/qijia_zhou_portfolio/Final_Project_Part_3.html)
