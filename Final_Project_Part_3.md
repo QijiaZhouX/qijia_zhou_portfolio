@@ -1,7 +1,13 @@
 # Part III
 
+## Link to the previous parts
 
-## Changes I made for the 
+[Final Project Part 1](https://qijiazhoux.github.io/qijia_zhou_portfolio/Final_Project_1.html)  
+
+[Final Project Part 2](https://qijiazhoux.github.io/qijia_zhou_portfolio/Final_project2.html)
+
+
+## Changes I made
 
 For my final project, I've devised a narrative framework primarily tailored for artists concerned about the potential upheaval AI-generated art may bring to their profession and the broader industry.
 
@@ -15,9 +21,9 @@ In the third segment, I argue that despite the varying perspectives on AI in art
 
 I conclude by providing resources for artists to safeguard their creations from unsolicited use in AI-driven platforms, underscoring the importance of artists' rights in this rapidly evolving landscape.   
 
-## Here is the draft of my work:     
+## Final Story   
 
-[shorthand framework](https://carnegiemellon.shorthandstories.com/artists-vs-algorithms/index.html)
+[Shorthand Story](https://carnegiemellon.shorthandstories.com/artists-vs-algorithms/index.html)
 
 ## References
 
