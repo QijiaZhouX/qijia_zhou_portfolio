@@ -23,7 +23,7 @@ I conclude by providing resources for artists to safeguard their creations from 
 
 ## Final Story   
 
-[Shorthand Story](https://carnegiemellon.shorthandstories.com/artists-vs-algorithms/index.html)
+[Artists Vs Algptithms](https://carnegiemellon.shorthandstories.com/artists-vs-algorithms/index.html)
 
 ## References
 
