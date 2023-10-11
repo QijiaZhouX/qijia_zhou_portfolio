@@ -79,7 +79,7 @@ Vincent, J. K. (2023, June 26). Hope, fear, and ai. The Verge. https://www.theve
 
 ### Articles:  
 
-Art in the age of artificial intelligence science. (n.d.). https://www.science.org/doi/10.1126/science.adh0575   
+Art in the age of artificial intelligence science (n.d.) https://www.science.org/doi/10.1126/science.adh0575 
 
 Cetinic, E., &amp; She, J. (2022). Understanding and creating art with AI: Review and outlook. ACM Transactions on Multimedia Computing, Communications, and Applications, 18(2), 1–22. https://doi.org/10.1145/3475799   
 
